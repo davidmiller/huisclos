@@ -1,185 +1,141 @@
+IN CAMERA
 
 SCENE 1
 
-
 (Garcin, the Valet)
-
 A Second Empire style sitting room.  A bronze statue is on the mantlepiece.
 
-Garcin enters, looks around him.
-
+        GARCIN enters, looks around him.
 So here we are.
-
-Valet
-
+        VALET   
 Here we are 
-
-Garcin
-
+        GARCIN  
 This is how it is
-
-Valet
-
+        VALET
 That's how it is
-
- 
-
-Garcin
-
+        GARCIN
 I... I think that in the long run, one has to adapt oneself to the furniture.
-
- 
-
-Valet
-
+        VALET
 It depends on the people.
-
- 
-
-Garcin
-
+        GARCIN
 Are all the rooms alike?
-
- 
-
-Valet
-
+        VALET
 That's right. It comes from the Chinese, the Hindus. What do you expect them to make of a second-empire-style armchair?
+       GARCIN
+And what do you expect me to make of it? Do you have any idea who I was? 
+Whatever - it's of no consequence. After all, I was forever living amongst 
+furniture I disliked, and in false situations*. And I loved it. A false 
+situation* in a Louis-Philippe dining room - how does that sound to you?
 
  
 
-Garcin
 
-And what do you expect me to make of it? Do you have any idea who I was? Whatever - it's of no consequence. After all, I was forever living amongst furniture I disliked, and in false situations*. And I loved it. A false situation* in a Louis-Philippe dining room - how does that sound to you?
-
- 
-
-Valet
-
+        VALET
 You'll see: in a second-empire salon, that's not bad either.
 
- 
+     GARCIN
+Ha. Well. Well well well. (he looks around him) All the same,
+I wouldn't have expected... You're not privy to what they're saying,
+back there?
 
-Garcin
-
-Ha. Well. Well well well. (he looks around him) All the same, I wouldn't have expected... You're not privy to what they're saying, back there?
-
- 
-
-Valet
-
+     VALET
 What about?
-
- 
-
-Garcin
-
+     GARCIN
 Well, you know... (with a large, vague gesture) About all this.
+     VALET
+How can you believe that nonsense? From people who've never set foot here. 
+Because, in the end, if they had come...
 
- 
-
-Valet
-
-How can you believe that nonsense? From people who've never set foot here. Because, in the end, if they had come...
-
- 
-
-Garcin
-
+     GARCIN
 Yes.
+                                        (they both laugh)
 
- 
 
-(they both laugh)
 
- 
 
-Garcin
 
+     GARCIN
 The stakes, the grills, the leather funnels...
-
- 
-
-Valet (looking at him)
-
+     VALET (looking at him)
 You must be joking...?
 
- 
+     GARCIN
+Oh? Oh right. No, I wasn't joking. (silence. He walks about) 
+No mirrors, no windows, naturally. Nothing fragile. 
+(with sudden violence:) And why's my toothbrush been confiscated?
 
-Garcin
 
-Oh? Oh right. No, I wasn't joking. (silence. He walks about) No mirrors, no windows, naturally. Nothing fragile. (with sudden violence:) And why's my toothbrush been confiscate?
-
- 
-
-Valet
-
+     VALET
 There you go. There's your human dignity coming back. Wonderful.
 
- 
+    GARCIN (violently hitting the armchair's armrest)
+I'll thank you to spare me your over-familiarities. 
+I'm not unaware of my situation, but I won't tolerate you... 
 
-Garcin (violently hitting the armchair's armrest)
-
-I'll thank you to spare me your over-familiarities. I'm not unaware of my situation, but I won't tolerate you...
-
- 
-
-Valet
-
-There, there! I'm sorry. What would you have me do, all the clients ask me the same thing. They turn up: “Where are the stakes?” At that moment, I swear, they're not thinking about cleaning themselves up. And then, after they're reassured, there's there toothbrush. But, for the love of God, why don't you think it through? Because, finally, I ask you, why would you brush your teeth?
-
- 
-
-Garcin (calmed)
-
-Well yes, in effect, why? (he looks around him) And why would one look at oneself in the mirror? As for the bronze, it has its time and place...I imagine there are moments when I'd gaze at it with all my eyes. All of them, eh? But come, come, there's nothing to hide here: I tell you I'm not ignorant of my situation. D'you want me to tell you how this comes about? The bloke suffocates, he's plunged in, he drowns, only his gaze is above water, and what does he see? A Barbedienne bronze. What a nightmare! So come along. They've obviously forbidden you from answering me, I won't insist. But I'll have you know, you won't catch me unawares, don't come here thinking you've taken me by surprise: I take situations as they are. (he resumes his march) So, no toothbrush. No bed either. Because one never sleeps, of course?
+    VALET
+There, there! I'm sorry. What would you have me do, all the clients ask 
+me the same thing. They turn up: “Where are the stakes?” At that moment, 
+I swear, they're not thinking about cleaning themselves up. And then, 
+after they're reassured, there's there toothbrush. But, for the love of 
+God, why don't you think it through? Because, finally, I ask you, why 
+would you brush your teeth?
 
  
 
-Valet
 
+    GARCIN (calmed)
+Well yes, in effect, why? (he looks around him) And why would one 
+look at oneself in the mirror? As for the bronze, it has its time
+ and place...
+I imagine there are moments when I'd gaze at it with all my eyes. 
+All of them, eh? But come, come, there's nothing to hide here: 
+I tell you I'm not ignorant of my situation. 
+D'you want me to tell you how this comes about? The bloke suffocates, 
+he's plunged in, he drowns, only his gaze is above water, 
+and what does he see? A Barbedienne bronze. What a nightmare! 
+So come along. They've obviously forbidden you from answering me, 
+I won't insist. But I'll have you know, you won't catch me unawares, 
+don't come here thinking you've taken me by surprise: I take situations as 
+they are. (he resumes his march) So, no toothbrush. No bed either. 
+Because one never sleeps, of course?
+
+
+
+
+
+
+
+    VALET
 Ha*!
-
- 
-
-Garcin
-
-I knew it. Why would one sleep? Slumber takes one from behind the ears. One feels ones eyes closing, but why sleep? One lies on a sofa, and pffft... sleep flies off! One must rub ones eyes, get up again, and everything begins anew.
-
- 
-
-Valet
-
+    GARCIN
+I knew it. Why would one sleep? 
+Slumber takes one from behind the ears. 
+One feels ones eyes closing, but why 
+sleep? One lies on a sofa, and 
+pffft... sleep flies off! One must rub ones 
+eyes, get up again, and everything begins anew.
+    VALET
 My, but how romantically you put it!
-
- 
-
-Garcin
-
-Oh shut up. I won't cry out, I won't wail, but I will take the situation for what it is. I won't have it creep up on me without my having clocked it. Romantically? So it is the case that one doesn't actually have a need for sleep? Fine. Wait... Wait: why is that so painful? Why would that necessarily be painful? I see: it's life without breaks.
-
- 
-
-Valet
-
+    GARCIN
+Oh shut up. I won't cry out, I won't wail, 
+but I will take the situation for what it is. I 
+won't have it creep up on me 
+without my having clocked it. Romantically? 
+So it is the case that one doesn't actually have a need for sleep? 
+# Distinction between dormir && sommeil?  #
+Fine. Wait... Wait: why is that so 
+painful? Why would that necessarily be painful? I 
+see: it's life without breaks.
+    VALET
 What breaks?
-
- 
-
-Garcin (imitating him)
-
-“What breaks?” (suspicious) Look at me: I knew it! There's what explains the grotesque and unbearable indiscretion of your gaze! My word, they've atrophied!
-
- 
-
-Valet
-
+    GARCIN (imitating him)
+“What breaks?” (suspicious) Look 
+at me: I knew it! There's what explains the 
+grotesque and unbearable indiscretion of your gaze! 
+My word, they've atrophied!
+    VALET
 What are you talking about?
-
- 
-
-Garcin
-
+    GARCIN
 Your eyelids. Us, we blink. With our eyelids. A wink, that was called. A little black lightning, a curtain falling and rising: the break is made. The eye humidifies itself, the world is eclipsed. You have no idea how refreshing it was. Four thousand rests an hour. Four thousand little evasions. And when I say four thousand... So. I'm to live without eyelids? Don't play the fool. Without eyelids, without slumber, it's all the same thing. I'll no longer sleep... But how will I cope? Try to understand, make an effort: I'm a worrier, you see, and.... and I have the habit of worrying. But I... I can't worry without respite: back there I had nights. I slept. I slept deeply. By way of compensation. I had simple dreams: there was a prairie... A prairie, that's all. I dreamt that I was promenading about it. Is it daytime?
 
  
