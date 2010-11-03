@@ -136,453 +136,271 @@ My word, they've atrophied!
     VALET
 What are you talking about?
     GARCIN
-Your eyelids. Us, we blink. With our eyelids. A wink, that was called. A little black lightning, a curtain falling and rising: the break is made. The eye humidifies itself, the world is eclipsed. You have no idea how refreshing it was. Four thousand rests an hour. Four thousand little evasions. And when I say four thousand... So. I'm to live without eyelids? Don't play the fool. Without eyelids, without slumber, it's all the same thing. I'll no longer sleep... But how will I cope? Try to understand, make an effort: I'm a worrier, you see, and.... and I have the habit of worrying. But I... I can't worry without respite: back there I had nights. I slept. I slept deeply. By way of compensation. I had simple dreams: there was a prairie... A prairie, that's all. I dreamt that I was promenading about it. Is it daytime?
-
- 
-
-Valet
-
+Your eyelids. Us, we blink. With our eyelids. 
+A wink, that was called. A little 
+black lightning, a curtain falling and rising: 
+the break is made. The eye humidifies itself, the world 
+is eclipsed. You have no idea how 
+refreshing it was. Four thousand rests 
+an hour. Four thousand little evasions. And 
+when I say four thousand... So. I'm to live 
+without eyelids? Don't play the fool. Without 
+eyelids, without slumber, it's all the same thing. I'll no 
+longer sleep... But how will I 
+cope? Try to understand, make an 
+effort: I'm a worrier, you see, and.... 
+and I have the habit of worrying. But I... I 
+can't worry without respite: back there I 
+had nights. I slept. I slept 
+deeply. By way of compensation. I had 
+simple dreams: there was a prairie... A 
+prairie, that's all. I dreamt that I was promenading 
+about it. Is it daytime?
+    VALET
 As you can see, the lights are on.
-
- 
-
-Garcin
-
+    GARCIN
 Goodness. That's your day. And outside?
 
- 
-
-Valet (suddenly confused)
-
+    VALET (suddenly confused)
 Outside?
-
- 
-
-Garcin
-
+    GARCIN
 Outside! Beyond these doors?
-
- 
-
-Valet
-
+    VALET
 There's a corridor.
-
- 
-
-Garcin
-
+    GARCIN
 And at the end of the corridor?
-
- 
-
-Valet
-
-There are other rooms, other corridors, stairs...
-
- 
-
-Garcin
-
+    VALET
+There are other rooms, other corridors, 
+stairs...
+    GARCIN
 And?
-
- 
-
-Valet
-
+    VALET
 That's it.
-
- 
-
-Garcin
-
-You get your days off. Where do you go?
-
- 
-
-Valet
-
-To my uncle's, who's head valet, on the third floor.
-
- 
-
-Garcin
-
+    GARCIN
+You get your days off. Where do you 
+go?
+    VALET
+To my uncle's, who's head valet, on 
+the third floor.
+    GARCIN
 I should've know. Where's the lightswitch?
-
- 
-
-Valet
-
+    VALET
 There isn't one.
-
- 
-
-Garcin
-
+    GARCIN
 So? One can't turn them off?
-
- 
-
-Valet
-
-The  management can cut the current. But I don't think they've ever done it on this floor. We've got electricity at our dicretion.
-
- 
-
-Garcin
-
+    VALET
+The  management can cut the current. But I don't
+think they've ever done it on this floor.
+We've got electricity at our dicretion.
+    GARCIN
 Fine. So one must live with open eyes...
-
- 
-
-Valet (ironic)
-
+    VALET (ironic)
 Live...
-
- 
-
-Garcin
-
-You're not going to pester me over vocabulary. Eyes open. Forever. It'll be day in my eyes. And my head. (pause) And if I threw the bronze at the electric lamp, would it turn off?
-
- 
-
-Valet
-
+    GARCIN
+You're not going to pester me over 
+vocabulary. Eyes open. Forever. 
+It'll be day in my eyes. And 
+my head. (pause) And if I threw the 
+bronze at the electric lamp, would it 
+turn off?
+    VALET
 It's too heavy.
-
- 
-
-Garcin (takes the bronze in his hands and tries to lift it)
+                 
+    GARCIN (takes the bronze in his hands and tries to lift it)
 
 You're right. It's too heavy.
+    (silence)
+    VALET
+Well, unless you need me, I'll 
+be leaving you.
+    
+    GARCIN (suddenly surprised)
+You're leaving? Goodbye. (the valet reaches 
+the door) Wait. (the valet turns) Is 
+that a bell, there? (the valet signs affirmation) 
+I can ring and you'll 
+have to come?
+    VALET
+In principal, yes. But it's capricious. There's 
+something stuck in the mechanism.
+    (GARCIN goes to the bell and presses the button. It rings)
 
- 
-
-(silence)
-
- 
-
-Valet
-
-Well, unless you need me, I'll be leaving you.
-
- 
-
-Garcin (suddenly surprised)
-
-You're leaving? Goodbye. (the valet reaches the door) Wait. (the valet turns) Is that a bell, there? (the valet signs affirmation) I can ring and you'll have to come?
-
- 
-
-Valet
-
-In principal, yes. But it's capricious. There's something stuck in the mechanism.
-
- 
-
-(Garcin goes to the bell and presses the button. It rings)
-
- 
-
-Garcin
-
+    GARCIN
 It works!
+    VALET (surprised)
+It works. (he rings it) But don't 
+count on it, it won't last. So, at your 
+service...
 
- 
-
-Valet (surprised)
-
-It works. (he rings it) But don't count on it, it won't last. So, at your service...
-
- 
-
-Garcin (gesturing for him to stay)
-
+    GARCIN (gesturing for him to stay)
 I...
-
- 
-
-Valet
-
+    VALET
 Eh?
-
- 
-
-Garcin
-
-No, nothing. (he goes to the chimney and takes the letter-opener) What's this?
-
- 
-
-Valet
-
+    GARCIN
+No, nothing. (he goes to the chimney and takes the letter-opener) 
+What's this?
+    VALET
 You can tell: it's a letter-opener.
-
- 
-
-Garcin
-
+    GARCIN
 Are there any books, here?
-
- 
-
-Valet
-
+    VALET
 No.
-
- 
-
-Garcin
-
-So what's it for? (the valet shrugs) Fine. As you were.
-
- 
-
-(the valet leaves)
-
-Closing time
-
-  
-
- 
+    GARCIN
+So what's it for? (the valet shrugs) 
+Fine. As you were.
+    (the valet leaves)
+####################################################################### 
 
 SCENE 2
-
-(Garcin, alone)
-
- 
-
-(Garcin, alone. He goes to the bronze and touches it with his hand. He sits down. He gets back up again. He goes to the bell and presses it. It doesn't ring. He tries two or three times. But in vain. He goes to the door and tries to open it. It resists. He calls.)
-
- 
-
-Garcin
-
+    (GARCIN, alone)
+(Garcin, alone. He goes to the bronze and touches it with his 
+hand. He sits down. He gets back up again. He goes to the bell and 
+presses it. It doesn't ring. He 
+tries two or three times. But in vain. He goes to 
+the door and tries to open it. It resists. He calls.)
+    GARCIN
 Valet! Valet!
+(No response. He makes a 
+rain of fists fall upon the door while calling the 
+valet. Then he suddenly calms himself and goes back to 
+sit down. At that moment the door opens and Ines 
+enters, followed by the valet.)
 
- 
+####################################################################### 
 
-(No response. He makes a rain of fists fall upon the door while calling the valet. Then he suddenly calms himself and goes back to sit down. At that moment the door opens and Ines enters, followed by the valet.)
-
- 
-
-SCENE 3
-
-(Garcin, Ines, the valet)
-
- 
-
-Valet (to Garcin)
-
+    SCENE 3
+    (GARCIN, Ines, the valet)
+    VALET (to Garcin)
 You called?
 
- 
-
-(Garcin makes to answer, but glances at Ines.)
-
- 
-
-Garcin
-
+(Garcin makes to answer, but 
+glances at Ines.)
+    GARCIN
 No.
 
- 
-
-Valet (turning to Ines)
-
-Consider yourself at home, madam. (silence from Ines) If you have any questions... (Ines stays silent)
-
- 
-
-Valet (disappointed)
-
-Normally clients like to inform themselves... I won't insist. Besides, as for the toothbrush, the bell and the Barbedienne bronze, sir is aware and he can answer you as well as I could.
-
- 
-
-(He leaves. Silence. Garcin avoids Ines with his gaze. Ines looks around her, then makes directly for Garcin.)
-
- 
-
-Ines
-
-Where's Florence? (Silence from Garcin.) I asked you where Florence was.
-
- 
-
-Garcin
-
+    VALET (turning to Ines)
+Consider yourself at home, madam. (silence from Ines) 
+If you have any questions... (Ines stays 
+silent)
+    VALET (disappointed)
+Normally clients like to inform themselves... 
+I won't insist. Besides, as for the toothbrush, 
+the bell and the Barbedienne bronze, 
+sir is aware and he can answer 
+you as well as I could.
+(He leaves. Silence. Garcin avoids Ines with his gaze. 
+Ines looks around her, then 
+makes directly for Garcin.)
+    INES
+Where's Florence? (Silence from Garcin.) I 
+asked you where Florence was.
+    GARCIN
 I've no idea.
-
- 
-
-Ines
-
-Is that all you've found? Torture by absence? Well, you've screwed up. Florence was a little simpleton and I don't miss her.
-
- 
-
-Garcin
-
+    INES
+Is that all you've found? Torture 
+by absence? Well, you've screwed up. Florence 
+was a little simpleton and I don't miss her.
+    GARCIN
 I'm sorry: who do think I am?
 
- 
-
-Ines
-
+    INES  
 You? You're the executioner.
-
- 
-
-Garcin (suddenly surprised, and starts laughing)
-
-What a hilarious mistake. The executioner, really? You came in, you saw me, and you thought:  that's the executioner. What an extravagance! That valet is ridiculous, he really should have introduced us. The executioner! I'm Joseph Garcin, publicist and man of letters. The truth is that we're in the same boat. Madam....?
-
- 
-
-Ines (dryly)
-
+    GARCIN (suddenly surprised, and starts laughing)
+What a hilarious mistake. The 
+executioner, really? You came in, you 
+saw me, and you thought:  that's the 
+executioner. What an extravagance! That valet is 
+ridiculous, he really should have introduced us. 
+The executioner! I'm Joseph Garcin, 
+publicist and man of letters. The truth is 
+that we're in the same boat. 
+Madam....?
+    INES (dryly)
 Ines Serrano. Mademoiselle.
-
- 
-
-Garcin
-
-Very good. Perfect. Well, the ice is broken. And so you find my appearance to be that of an executioner? And how does one recognise an executioner, if you don't mind my asking?
-
- 
-
-Ines
-
+    GARCIN
+Very good. Perfect. Well, the ice is broken. 
+And so you find my appearance to be that of an executioner? 
+And how does one recognise an executioner, 
+if you don't mind my asking?
+    INES
 They have the appearance of looking scared.
+    GARCIN
+Scared? That's too funny. And of whom? Of their 
+victims?
+    INES
+Oh come on! I know what I'm saying. I've looked myself 
+in the mirror.
+    GARCIN
+In the mirror? (looking around him) Incredible. 
+They've taken everything 
+remotely like a mirror. (pause) In any case, 
+I can affirm that I'm not scared. I don't 
+take the situation lightly and I'm very 
+conscious of its seriousness. But I am not scared.
 
- 
-
-Garcin
-
-Scared? That's too funny. And of whom? Of their victims?
-
- 
-
-Ines
-
-Oh come on! I know what I'm saying. I've looked myself in the mirror.
-
- 
-
-Garcin
-
-In the mirror? (looking around him) Incredible. They've taken everything remotely like a mirror. (pause) In any case, I can affirm that I'm not scared. I don't take the situation lightly and I'm very conscious of its seriousness. But I am not scared.
-
- 
-
-Ines (shrugging)
-
-That's your affair. (pause) Do you occasionally go to to take a walk outside?
-
- 
-
-Garcin
-
+    INES (shrugging)
+That's your affair. (pause) Do you occasionally 
+go to to take a walk 
+outside?
+    GARCIN
 The door's locked.
-
- 
-
-Ines
-
+    INES
 Never mind.
-
- 
-
-Garcin
-
-I understand very well that my presence is importunate to you. And personally, I'd rather be alone: I've got to put my life in order and I need to collect myself. But I'm sure we can get along with one-another: I don't talk too much, I don't fidget, and I don't make noise. Only, if I can permit myself to advise you, we should observe extreme politeness between us. It'll be our best defense.
-
- 
-
-Ines
-
+    GARCIN
+I understand very well that my presence is 
+importunate to you. And personally, I'd rather 
+be alone: I've got to put my life in order 
+and I need to collect myself. But I'm sure 
+we can get along with 
+one-another: I don't talk too much, I don't fidget, and I 
+don't make noise. Only, if I can 
+permit myself to advise you, we should observe 
+extreme politeness between us. It'll be our best defense.
+    INES
 I'm not polite.
-
- 
-
-Garcin
-
+    GARCIN
 I'll be polite for the both of us.
-
- 
-
-(Silence. Garcin is sat at the sofa. Ines walks the length and breadth.)
-
- 
-
-Ines (looking at him)
-
+    (SILENCE. Garcin is sat at the sofa. 
+    INES walks the length and breadth.)
+    INES (looking at him)
 Your mouth.
-
- 
-
-Garcin (pulled from his reverie)
-
+    GARCIN (pulled from his reverie)
 Does it please you?
+    INES
+Couldn't you stop your mouth? 
+It's spinning like a top under your nose..
+    GARCIN
+I do beg your pardon. I 
+wasn't aware.
+    INES
+That's what I'm reproaching you for. (Garcin tics) 
+Again! You pretend politeness and you leave 
+your face to abandon. You are not alone and 
+you have no right to inflict the spectacle 
+of your fear upon me.
 
- 
-
-Ines
-
-Couldn't you stop your mouth? It's spinning like a top under your nose..
-
- 
-
-Garcin
-
-I do beg your pardon. I wasn't aware.
-
- 
-
-Ines
-
-That's what I'm reproaching you for. (Garcin tics) Again! You pretend politeness and you leave your face to abandon. You are not alone and you have no right to inflict the spectacle of your fear upon me.
-
- 
-
-(Garcin gets up and goes towards her)
-
- 
-
-Garcin
-
+    (GARCIN gets up and goes towards her)
+    GARCIN
 You're not scared, yourself?
-
- 
-
-Ines
-
-To what end? Fear is useful before, when one still has hope.
-
- 
-
-Garcin (softly)
-
-There is no more hope, but we are still before. We have yet to begin suffering, Madam.
-
-Ines
-
-I know. (pause) So? What's next?
-
- 
-
-Garcin
-
+    INES
+To what end? Fear is useful before, 
+when one still has hope.
+    GARCIN (softly)
+There is no more hope, but we are 
+still before. We have yet to begin 
+suffering, Madam.
+    INES
+I know. (pause) So? What's 
+next?
+    GARCIN
 I don't know. I'm waiting.
+    (SILENCE. Garcin goes to sit down again. Ines 
+resumes her walk. Gardin has a facial tic at the 
+mouth, and, after looking to Ines, 
+buries his face in his hands. Estelle 
+and the valet enter.)
 
- 
-
-(Silence. Garcin goes to sit down again. Ines resumes her walk. Gardin has a facial tic at the mouth, and, after looking to Ines, buries his face in his hands. Estelle and the valet enter.)
-
- 
+###################################################################### 
 
 SCENE 4
 
