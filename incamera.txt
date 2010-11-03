@@ -418,4 +418,17 @@ I am not the executioner, madam.
 I didn't take you for the executioner. I...
 I thought someone was playing a joke on me.
 (To the VALET) Are we waiting for any more?
-    VALET
+    VALET                     (p28)
+No one else is coming.
+    ESTELLE (relieved)
+Ah! So we're to stay here on our own, the gentleman, 
+the lady and myself?
+    (She starts to laugh)
+    GARCIN (dryly)
+It's no laughing matter.
+    ESTELLE (Laughing throughout)
+But the sofas are so ugly. And look
+how the're arranged, it's like 
+the first time I visited my aunt
+Marie's house. Each to their own I suppose. 
+This one's mine? (To GARCIN)
